@@ -10,6 +10,6 @@ There are competing views among the Echoed -
 - [[Mobridge/People/Zek the Shifter.md|Zek the Shifter]]
 - [[Mobridge/People/Rian Doss.md|Rian Doss]]
 - [[Mobridge/People/Patchwork.md|Patchwork]]
-- [[Mobridge/People/Mother Veil.md|Mother Veil]]
 - [[Mobridge/People/Mira Thorn.md|Mira Thorn]]
 - [[Mobridge/People/Dr Harlan Quell.md|Dr Harlan Quell]]
+- [[Mobridge/People/Mother Veil.md|Mother Veil]]

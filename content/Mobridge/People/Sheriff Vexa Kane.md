@@ -8,4 +8,4 @@
 - Hooks: Needs reliable guns for hire. Doesn’t trust Quell. Keeps her own secret: her daughter is a latent psychic being studied by the Echoed.
 - Trying to stop the black market out of the Lost Dog
 
-sister is a nun because of Rex
+sister is a nun because of [[Rex “Drain” Callen]]

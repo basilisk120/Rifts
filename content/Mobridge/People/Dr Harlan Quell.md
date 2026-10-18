@@ -17,4 +17,4 @@ Rumors
 - Wants ARCHIE's intelligence - has only heard rumors does not know what it trully is
 
 Faction: [[Echoed]]
-Conducts private experiments attempting to stabilize or communicate with the Echoed using ley resonance chambers. His journals suggest he’s made contact with one that knows his name.
+[[hidden 3  chamber]]

@@ -14,8 +14,6 @@ Came to town a few years ago
 
 - Keeps his Juicer harness hanging above the bar as a “don’t” warning.
 - Knows who’s drinking too much — and what they’re trying to forget.
-- Works with J'hston and Derrin (separately) to bring in Black market items
+  -[[hidden 5 airstrip]]
 
-Clinthal meat
-It scares him
-Still alive - technically and growing
+[[hidden 8 food]]

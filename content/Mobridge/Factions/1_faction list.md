@@ -11,3 +11,4 @@
 - [[Mobridge/Factions/J'hston faction.md|J'hston faction]]
 - [[Mobridge/Factions/Echoed.md|Echoed]]
 - [[Mobridge/Factions/Archie.md|Archie]]
+- [[Mobridge/Factions/Bertnoth's Rangers.md|Bertnoth's Rangers]]

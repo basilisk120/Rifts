@@ -13,5 +13,4 @@
 - Hooks:
 
 - Leaks “just enough truth” to manipulate public sentiment.
-
-- Runs a secret blackmail ledger that includes [[J'hston]] and the [[Thalia Vorn]] .
+  [[hidden 7 blackmail]]
