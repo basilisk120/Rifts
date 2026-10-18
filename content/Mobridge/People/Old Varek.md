@@ -1,4 +1,4 @@
-#NPC #quietEmber 
+#NPC #quietEmber
 
 Old Varek - occasionally works at [[Baines Fixery]] and at [[Hollow Salvage Yard]]
 

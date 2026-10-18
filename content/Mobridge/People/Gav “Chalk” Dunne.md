@@ -1,5 +1,6 @@
 #letoMining #NPC
 Quarry Foreman at [[Leto Mining Corp Mines]]
+
 - Description: Massive human mutant with chalk-white skin and luminescent eyes from long exposure to ley dust.
 - Hook: His miners found a buried machine-heart that hums like it’s alive.
 - Would Betray [[Bram Leto]] if the reason was correct 

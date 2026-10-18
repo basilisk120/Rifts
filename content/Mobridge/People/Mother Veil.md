@@ -1,4 +1,4 @@
-#Echoed #NPC 
+#Echoed #NPC
 Leader of the [[Echoed]] cult
 
 - Alignment: Diabolic (delusional visionary)
