@@ -17,7 +17,6 @@
 - [[Mobridge/People/Harlan Baines.md|Harlan Baines]]
 - [[Mobridge/People/Derrin Holt.md|Derrin Holt]]
 - [[Mobridge/People/Bram Leto.md|Bram Leto]]
-- [[Mobridge/People/Cpt Brian.md|Cpt Brian]]
 - [[Mobridge/People/Corporal Dax Hensley.md|Corporal Dax Hensley]]
 - [[Mobridge/People/Dr Harlan Quell.md|Dr Harlan Quell]]
 - [[Mobridge/People/Gav “Chalk” Dunne.md|Gav “Chalk” Dunne]]
@@ -29,6 +28,7 @@
 - [[Mobridge/People/Squire Jett Draven.md|Squire Jett Draven]]
 - [[Mobridge/People/Rico.md|Rico]]
 - [[Mobridge/People/Omar.md|Omar]]
+- [[Mobridge/People/Cpt Brian.md|Cpt Brian]]
 
 City Council:
 
