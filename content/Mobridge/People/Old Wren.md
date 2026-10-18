@@ -1,6 +1,6 @@
-#NPC #mystic 
+#NPC #mystic
 
- blind human mystic
+blind human mystic
 Owns [[The Linewalker’s Rest]]
 
 - Wren can sense Rift energy and warns travelers when the lines “shift wrong.”

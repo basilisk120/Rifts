@@ -1,16 +1,12 @@
-#Faction 
-Wants to convert all living things to mechanoids 
+#Faction
+Wants to convert all living things to mechanoids
 hates biolife
 
-
-
 members:
-```dataview
-list from #Archie   
-```
+
+- [[Baddies/Archie 3.md|Archie 3]]
+
 allied Factions:
 
-
 Counter Factions
-[[Archie]]  
-
+[[Archie]]

@@ -1,11 +1,12 @@
-#Faction 
+#Faction
 Wants the city to be safe
 supports the creation of the [[Militia]]
 
 members:
-```dataview
-list from #Mayor   
-```
+
+- [[Mobridge/People/Thalia Vorn.md|Thalia Vorn]]
+- [[Mobridge/People/Nema Frost.md|Nema Frost]]
+
 allied Factions:
 [[Sheriff]]
 

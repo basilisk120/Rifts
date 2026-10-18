@@ -1,4 +1,4 @@
-#Clinic #quietEmber #doctor #ExCoalition #NPC  #Echoed #jhston 
+#Clinic #quietEmber #doctor #ExCoalition #NPC  #Echoed #jhston
 Faction: [[Quite Ember]] [[Echoed]] [[J'hston faction]]
 
 Work at clinic in town

@@ -1,4 +1,4 @@
-#Faction 
+#Faction
 Motto: “We don’t burn. We smolder.”
 
 Operating Base: The Old Quarry Tunnels beneath the western ridge of Ash Hollow.
@@ -46,8 +46,10 @@ In the aftermath, a small group of survivors began coordinating counter-operatio
 - “The Broken Deal”: Patchwork steals a data core from Horizon Co., but it starts broadcasting psychic distress calls.
 - “The Burn”: A CS task force closes in. The Quiet Ember must decide: flee, fight, or burn the evidence — including the ley stabilizer that keeps Ash Hollow intact
 
-
 Members:
-```dataview
-list from #quietEmber  
-```
+
+- [[Mobridge/People/Talla Vex.md|Talla Vex]]
+- [[Mobridge/People/Rian Doss.md|Rian Doss]]
+- [[Mobridge/People/Patchwork.md|Patchwork]]
+- [[Mobridge/People/Old Varek.md|Old Varek]]
+- [[Mobridge/People/Mira Thorn.md|Mira Thorn]]
