@@ -1,11 +1,14 @@
-#Faction
+#Faction 
 Wants to protect humanity but also hates people
 
+
+
 members:
-
-- [[Baddies/Archie 3.md|Archie 3]]
-
+```dataview
+list from #Archie   
+```
 allied Factions:
 
+
 Counter Factions
-[[Mechanoids]]
+[[Mechanoids]] 
