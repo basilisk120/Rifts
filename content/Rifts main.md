@@ -1,6 +1,9 @@
 Currently in [[Mobridge]]
 
+[[Mobridge area.jpg]]
+
 [[Rumors]]
+[[Rules]]
 
 [[1_list of NPC]]
 [[1_faction list]]
@@ -24,3 +27,11 @@ unit: meters
 scale: 1
 darkMode: False
 ```
+
+[[Mobridge area.jpg]]
+
+Next Game
+nov 7th
+
+Files for Game - rules and character sheets
+https://drive.google.com/drive/u/0/folders/1Pcv8vV7Gwf7nuMolEzIA5UFcRl61Wl9f

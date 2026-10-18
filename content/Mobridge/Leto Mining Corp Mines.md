@@ -9,8 +9,8 @@ Have a surprisingly well defended from the inside
 
 employees:
 
-- [[Mobridge/People/Gav “Chalk” Dunne.md|Gav “Chalk” Dunne]]
 - [[Mobridge/People/Bram Leto.md|Bram Leto]]
+- [[Mobridge/People/Gav “Chalk” Dunne.md|Gav “Chalk” Dunne]]
 
 supports
 [[J'hston faction]]
