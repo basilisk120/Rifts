@@ -1,4 +1,4 @@
-#quietEmber #NPC #DeBee  #militia #Echoed 
+#quietEmber #NPC #DeBee  #militia #Echoed
 
 “Patchwork” — Unknown D-Bee Technician - drone operator for town [[Derrin Holt]]
 Faction: [[Quite Ember]] [[Echoed]]
@@ -12,5 +12,5 @@ Contribution: Operates stolen Coalition recon drones, rerouting their data feeds
 Rumor: Some believe “Patchwork” is more machine than flesh — an escaped experiment from Horizon Co., not CS.
 
 [[Echoed]]
-Claimed to have recorded “ley static” that forms coherent human speech. When played back, it repeated one phrase:  
+Claimed to have recorded “ley static” that forms coherent human speech. When played back, it repeated one phrase:\
 “You’re already remembered.”

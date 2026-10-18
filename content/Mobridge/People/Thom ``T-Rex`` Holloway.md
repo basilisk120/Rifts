@@ -1,4 +1,4 @@
-#NPC 
+#NPC
 Runs the [[The Iron Needle]]
 Hunting weapons
 Cranky old timer - helpful but complains

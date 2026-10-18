@@ -1,4 +1,13 @@
-```dataview
-list from #Faction    
-```
-
+- [[Mobridge/The Dust Chapel.md|The Dust Chapel]]
+- [[Mobridge/Leto Mining Corp Mines.md|Leto Mining Corp Mines]]
+- [[Mobridge/Factions/Rodricks rangers.md|Rodricks rangers]]
+- [[Mobridge/Factions/Tomorrow Legion.md|Tomorrow Legion]]
+- [[Mobridge/Factions/Sheriff.md|Sheriff]]
+- [[Mobridge/Factions/Mayor Faction.md|Mayor Faction]]
+- [[Mobridge/Factions/Mechanoids.md|Mechanoids]]
+- [[Mobridge/Factions/Quite Ember.md|Quite Ember]]
+- [[Mobridge/Factions/New Merc Company.md|New Merc Company]]
+- [[Mobridge/Factions/Militia.md|Militia]]
+- [[Mobridge/Factions/J'hston faction.md|J'hston faction]]
+- [[Mobridge/Factions/Echoed.md|Echoed]]
+- [[Mobridge/Factions/Archie.md|Archie]]
