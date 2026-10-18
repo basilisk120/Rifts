@@ -10,14 +10,17 @@ Colorful tarps stretch over cracked ferrocrete, glowing faintly from crystals em
 - **Specialty Vendors:**
 
 - “Crater Dan’s Alchemical Supplies” – sells tinctures made from mutated flora.
+
 - “Talon’s Trinkets” – a D-Bee jeweler who sets ley stones into charms.
+
 - “The Coil Rack” – black-market weapons & psionic focus items.
 
 - **Rumor:**
 
 - Every full moon, a Rift opens just outside the stalls for a few seconds — some claim merchants from elsewhere appear briefly.
-- 
-```dataview
-LIST
-FROM #brightMarket
-```
+
+-
+
+- [[Mobridge/People/Talla Vex.md|Talla Vex]]
+
+- [[Mobridge/People/Nema Frost.md|Nema Frost]]

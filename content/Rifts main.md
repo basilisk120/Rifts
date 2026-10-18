@@ -1,4 +1,3 @@
-
 Currently in [[Mobridge]]
 
 [[Rumors]]
@@ -6,11 +5,11 @@ Currently in [[Mobridge]]
 [[1_list of NPC]]
 [[1_faction list]]
 
-neighboring cities 
-```dataview
-LIST
-FROM #City 
-```
+neighboring cities
+
+- [[Mobridge/Mobridge.md|Mobridge]]
+- [[Mobridge/Fort Carson.md|Fort Carson]]
+- [[Mobridge/Buffalo Gap.md|Buffalo Gap]]
 
 ```leaflet
 id: leaflet-map
@@ -25,6 +24,3 @@ unit: meters
 scale: 1
 darkMode: False
 ```
-
-
-

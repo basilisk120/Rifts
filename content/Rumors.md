@@ -59,4 +59,3 @@ Find friendly abarant mechanoids
 Attacked by evil  - get things moving to get AI back from town or mines
 
 Raiders
-

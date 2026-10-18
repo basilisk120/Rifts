@@ -5,6 +5,6 @@
 
 - Hooks:
 
-
 - Harlan doesn’t know Micah’s been collaborating with Quell’s experiments.
+
 - PCs might need them to patch a broken power armor or decode a TW device.

@@ -8,13 +8,13 @@ Weird artifacts come out of the mine
 Have a surprisingly well defended from the inside
 
 employees:
-```dataview
-list from #letoMining 
-```
+
+- [[Mobridge/People/Gav “Chalk” Dunne.md|Gav “Chalk” Dunne]]
+- [[Mobridge/People/Bram Leto.md|Bram Leto]]
+
 supports
 [[J'hston faction]]
 
 opposed by:
 [[Mayor Faction]]
 [[Sheriff]]
-
