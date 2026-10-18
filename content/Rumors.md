@@ -1,3 +1,5 @@
+publish: true
+
 Someone’s been stealing rations off the Horizon shipment crates again — guards found tiny footprints.”
 
 The old mag-rail east tunnel hums at night. Sounds like singing, but no one goes in there anymore.”
