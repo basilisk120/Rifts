@@ -1,4 +1,4 @@
-#NPC #brightmarket #quietEmber
+#NPC #brightmarket #quietEmber 
 Talla Vex – “Smudge”- Street artist works at the [[Bright Market]]
 
 Faction: [[Quite Ember]]

@@ -1,4 +1,4 @@
-#NPC #Echoed
+#NPC #Echoed 
 Dimension-walking mystic living in the Warrens
 
 Wandered into town one and just stayed
@@ -9,4 +9,4 @@ He dresses in layered robes of patchwork cloth and dimensional fabric, fastened 
 
 Faction: [[Echoed]]
 Believes the Echoed are fragments of his failed bindings. Keeps a warded circle near The Sink to prevent them from manifesting during storms. The Echoed seem drawn to his aura.
-Does he believe? Is he trying to help or hinder the awakening.
+Does he believe? Is he trying to help or hinder the awakening.  

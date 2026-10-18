@@ -1,0 +1,6 @@
+- [x] [[Brodkil]]  (x )( ) stunned
+- [x] [[Chipwell]] ( )( )
+- [ ] [[Bushman]]
+- [x] [[TW 1]]
+- [x] [[Urban warrior]]
+

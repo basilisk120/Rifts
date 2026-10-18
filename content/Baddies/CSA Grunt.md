@@ -4,7 +4,7 @@ Armour: 7
 Parry: 5
 Pace 6
 
-\--skills--
+--skills--
 Shooting: d6
 Fighting: d6
 

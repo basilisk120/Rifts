@@ -2,10 +2,9 @@
 Keep the city safe and crime down
 
 members:
-
-- [[Mobridge/People/Sergeant Wyatt.md|Sergeant Wyatt]]
-- [[Mobridge/People/Sheriff Vexa Kane.md|Sheriff Vexa Kane]]
-
+```dataview
+list from #sheriff   
+```
 supports:
 [[Mayor Faction]]
 
@@ -14,3 +13,4 @@ opposes:
 
 neutral on:
 [[J'hston faction]]
+

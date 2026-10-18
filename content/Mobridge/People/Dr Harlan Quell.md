@@ -1,4 +1,4 @@
-#doctor #cyberDoc #NPC #Echoed
+#doctor #cyberDoc #NPC #Echoed 
 **Appearance**
 Quell is tall, almost gaunt, with translucent, faintly glowing skin through which circuitry-like ley conduits can be seen pulsing faintly.
 
@@ -14,7 +14,7 @@ Rumors
 
 - Quell asks the party to retrieve a "piece of his past" — a lost containment pod from the DARPA facility — before it hatches.
 - A rival (a Techno-Wizard or Shifter) tries to assassinate him, claiming Quell’s work is unraveling reality itself.
-- Wants ARCHIE's intelligence - has only heard rumors does not know what it trully is
+- Wants ARCHIE's intelligence - has only heard rumors does not know what it trully is 
 
 Faction: [[Echoed]]
 Conducts private experiments attempting to stabilize or communicate with the Echoed using ley resonance chambers. His journals suggest he’s made contact with one that knows his name.

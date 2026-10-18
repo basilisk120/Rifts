@@ -1,4 +1,4 @@
-#NPC #quietEmber #lostdog  #ExCoalition #Echoed
+#NPC #quietEmber #lostdog  #ExCoalition #Echoed 
 
 Rian Doss – “The Ghost” - works in the [[Lost Dog Saloon]]
 Faction: [[Quite Ember]] [[Echoed]]

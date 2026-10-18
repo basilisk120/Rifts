@@ -1,5 +1,5 @@
-#cityCouncil #Mayor #NPC
-Mayor Thalia Vorn - former Merc Captain 
+#cityCouncil #Mayor #NPC 
+Mayor Thalia Vorn - former Merc Captain  
 Faction: [[Mayor Faction]] [[Echoed]]
 
 Old tough lady. White hair smokes cigars
