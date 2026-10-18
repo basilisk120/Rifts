@@ -1,6 +1,12 @@
 {
   "version": "1.0.0",
   "plugins": {
+    "obsidian-flavored-markdown": {
+      "source": "github:quartz-community/obsidian-flavored-markdown",
+      "resolved": "https://github.com/quartz-community/obsidian-flavored-markdown.git",
+      "commit": "1ae94b7961332d383bd68a92b1178be54f1422a7",
+      "installedAt": "2026-10-18T18:25:25.571Z"
+    },
     "quartz-leaflet-bases-plugin": {
       "source": "github:Requiae/quartz-leaflet-bases-plugin",
       "resolved": "https://github.com/Requiae/quartz-leaflet-bases-plugin.git",
