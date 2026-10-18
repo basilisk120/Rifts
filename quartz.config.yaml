@@ -1,13 +1,12 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
   pageTitle: Quartz 5
-  pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: basilisk120.github.io/rifts
+  baseUrl: basilisk120.github.io/Rifts
   ignorePatterns:
     - private
     - templates
@@ -75,7 +74,7 @@ plugins:
       enableCheckbox: true
     order: 30
   - source: "@quartz-community/github-flavored-markdown"
-    enabled: true
+    enabled: false
     order: 40
   - source: "@quartz-community/table-of-contents"
     enabled: true
