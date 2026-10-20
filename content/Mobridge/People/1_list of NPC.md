@@ -1,5 +1,4 @@
 - [[Mobridge/People/Zek the Shifter.md|Zek the Shifter]]
-- [[Mobridge/People/Thom ``T-Rex`` Holloway.md|Thom ``T-Rex`` Holloway]]
 - [[Mobridge/People/Thalia Vorn.md|Thalia Vorn]]
 - [[Mobridge/People/Sister Vellia Dane.md|Sister Vellia Dane]]
 - [[Mobridge/People/Talla Vex.md|Talla Vex]]
@@ -31,6 +30,7 @@
 - [[Mobridge/People/Rico Guerra.md|Rico Guerra]]
 - [[Mobridge/People/Tp'ikko  “Two-Step”.md|Tp'ikko  “Two-Step”]]
 - [[Mobridge/People/Yzu ”Bluebell”  Nallivet.md|Yzu ”Bluebell”  Nallivet]]
+- [[Mobridge/People/Thom ”T-Rex” Holloway.md|Thom ”T-Rex” Holloway]]
 
 City Council:
 

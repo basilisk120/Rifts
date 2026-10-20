@@ -11,7 +11,6 @@ Locations:
 - [[Mobridge/The old Mines.md|The old Mines]]
 - [[Mobridge/The Linewalker’s Rest.md|The Linewalker’s Rest]]
 - [[Mobridge/The Low Spark.md|The Low Spark]]
-- [[Mobridge/The Iron Needle.md|The Iron Needle]]
 - [[Mobridge/The Hollow Spire Inn.md|The Hollow Spire Inn]]
 - [[Mobridge/The Dust Chapel.md|The Dust Chapel]]
 - [[Mobridge/Rail Grill.md|Rail Grill]]
@@ -24,3 +23,4 @@ Locations:
 - [[Mobridge/Baines Fixery.md|Baines Fixery]]
 - [[Mobridge/Cemetery.md|Cemetery]]
 - [[Mobridge/Bright Market.md|Bright Market]]
+- [[Mobridge/The Iron Needle.md|The Iron Needle]]

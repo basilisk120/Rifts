@@ -1,5 +1,5 @@
 #weapons #Guns #location
-Run by [[Thom ``T-Rex`` Holloway]]
+Run by [[Thom ”T-Rex” Holloway]]
 Primirly hunting weapons and supplies
 
 Cranky old timer - helpful but complains
