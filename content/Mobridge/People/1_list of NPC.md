@@ -30,7 +30,7 @@
 - [[Mobridge/People/J'hston.md|J'hston]]
 - [[Mobridge/People/Rico Guerra.md|Rico Guerra]]
 - [[Mobridge/People/Tp'ikko  “Two-Step”.md|Tp'ikko  “Two-Step”]]
-- [[Mobridge/People/Yzu `` Bluebell``  Nallivet.md|Yzu `` Bluebell``  Nallivet]]
+- [[Mobridge/People/Yzu ”Bluebell”  Nallivet.md|Yzu ”Bluebell”  Nallivet]]
 
 City Council:
 
@@ -54,4 +54,4 @@ De-bees
 - [[Mobridge/People/Patchwork.md|Patchwork]]
 - [[Mobridge/People/J'hston.md|J'hston]]
 - [[Mobridge/People/Tp'ikko  “Two-Step”.md|Tp'ikko  “Two-Step”]]
-- [[Mobridge/People/Yzu `` Bluebell``  Nallivet.md|Yzu `` Bluebell``  Nallivet]]
+- [[Mobridge/People/Yzu ”Bluebell”  Nallivet.md|Yzu ”Bluebell”  Nallivet]]
