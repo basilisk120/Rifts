@@ -3,6 +3,7 @@ Personal power , supports creation of hte [[Militia]] see this as a potential co
 
 - [[Mobridge/People/Mira Thorn.md|Mira Thorn]]
 - [[Mobridge/People/J'hston.md|J'hston]]
+- [[Mobridge/People/Yzu `` Bluebell``  Nallivet.md|Yzu `` Bluebell``  Nallivet]]
 
 allied Factions:
 [[Leto Mining Corp Mines]]

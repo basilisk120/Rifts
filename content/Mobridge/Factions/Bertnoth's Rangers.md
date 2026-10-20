@@ -7,5 +7,6 @@ Small and a bit chaotic but clean and neat wear it counts.  Gear is is fighting 
 
 rivals [[Rodricks rangers]]
 
-- [[Mobridge/People/Rico.md|Rico]]
 - [[Mobridge/People/Cpt Brian.md|Cpt Brian]]
+- [[Mobridge/People/Rico Guerra.md|Rico Guerra]]
+- [[Mobridge/People/Tp'ikko  “Two-Step”.md|Tp'ikko  “Two-Step”]]

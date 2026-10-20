@@ -10,17 +10,13 @@ The old mag-rail east tunnel hums at night. Sounds like singing, but no one goes
 
 [[Rex “Drain” Callen]] got into another fight. Broke a man’s jaw but paid his bar tab in silver bullets.”
 
-|                                                                                                      |
-| ---------------------------------------------------------------------------------------------------- |
-| “The ley currents are running hot. [[Zek the Shifter]] says the Rift’s heartbeat is getting faster.” |
+“The ley currents are running hot. [[Zek the Shifter]] says the Rift’s heartbeat is getting faster.”
 
 “[[Dr Harlan Quell]] bought a dozen candles from the trader — said he was ‘testing how shadows remember.’”
 
 “Someone’s breeding dogs down by the fuel depot — big ones. Says they’re for defense. They howl at the Rift.”
 
-|   |
-|---|
-|Mobridges s kids are playing a game called ‘The Second You.’ Parents are worried.”|
+Mobridges s kids are playing a game called ‘The Second You.’ Parents are worried.
 
 The **Sacrifice of Remembrance** is in two weeks.  Potluck to follow -held at the [[The Dust Chapel]]
 
